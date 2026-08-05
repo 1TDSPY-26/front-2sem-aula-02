@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/1TDSPY-26/front-2sem-aula-02/issues"
   },
-  "homepage": "https://github.com/1TDSPY-26/front-2sem-aula-02#readme"
+  "homepage": "https://github.com/1TDSPY-26/front-2sem-aula-02#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
