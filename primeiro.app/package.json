@@ -1,0 +1,16 @@
+{
+  "name": "primeiro.app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "typescript": "^7.0.2"
+  }
+}
