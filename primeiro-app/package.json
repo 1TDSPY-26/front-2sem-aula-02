@@ -1,0 +1,13 @@
+{
+  "name": "primeiro-app",
+  "version": "1.0.0",
+  "description": "Primeiro App que estamos criando",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
