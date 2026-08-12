@@ -1,2 +1,2 @@
-const curso: string = "CC";
+const curso: string = "ADS";
 console.log(`Curso: ${curso}`);

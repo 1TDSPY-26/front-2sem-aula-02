@@ -1,3 +1,3 @@
 "use strict";
-const curso = "CC";
+const curso = "ADS";
 console.log(`Curso: ${curso}`);

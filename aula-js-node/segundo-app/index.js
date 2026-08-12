@@ -1,2 +1,2 @@
-const curso = "ADS";
-console.log(`Curso: ${curso}`);
+const nome = "joao";
+console.log(`Olá, ${nome}!`);
